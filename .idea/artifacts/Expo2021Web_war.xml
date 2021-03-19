@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Expo2021Web:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Expo2021Web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Expo2021Web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Expo2021Web:war exploded" />
+    </root>
+  </artifact>
+</component>
